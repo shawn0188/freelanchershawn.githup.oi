@@ -1,0 +1,281 @@
+span.top-Gas-Gazziers.font-weight-normal {
+    font-size: 14px;
+    margin: 34px 0px 0px 5px;
+    float: left;
+}
+span.last-updated-at-block.font-weight-normal {
+    font-size: 14px;
+    float: right;
+    margin: 20px 0px 0px 502px;
+    background: #ddd;
+    padding: 5px;
+    border-radius: 23px;
+}
+.rank-address {
+    width: 100%;
+    height: 50px;
+    margin: 34px 0px 0px 0px;
+    float: left;
+    box-shadow: 1px 1px 7px 1px #ddd;
+}
+
+.rank-8 {
+    margin: 14px 0px 0px 38px;
+    color: #222222ab;
+    float: left;
+}
+.address-9 {
+     margin: 14px 0px 0px 38px;
+    color: #222222ab;
+    float: left;
+}
+.Fees-Last {
+  margin: 14px 0px 0px 129px;
+    color: #222222ab;
+    float: left;
+}
+.Used-3hrs {
+    margin: 14px 0px 0px 59px;
+    color: #222222ab;
+    float: left;
+}
+.Feels-Last-2 {
+   margin: 14px 0px 0px 59px;
+    color: #222222ab;
+    float: left;
+}
+.Used-24hrs {
+  margin: 14px 0px 0px 59px;
+    
+    color: #222222ab;
+    float: left;
+}
+.Analytics {
+ margin: 14px 0px 0px 59px;
+    color: #222222ab;
+    float: left;
+}
+.rank-address-2 {
+    width: 100%;
+    height: 40px;
+    margin: 34px 0px 0px 0px;
+    float: left;
+    border-bottom:2px solid #ddd;
+
+}
+.rank-9 {
+    font-size: 18px;
+    float: left;
+    margin: -8px 0px 0px 35px;
+}
+.rank-9 img {
+    float: left;
+    margin: 2px 0px 0px -6px;
+}
+.rank-9 span {
+    margin: -4px 0px 0px 6px;
+    float: left;
+}
+span.Fees-Last-2.font-weight-normal {
+    font-size: 14px;
+    float: left;
+    margin: -11px 30px 30px 38px;
+}
+.Fees-Last-2 span {
+    color: #2229;
+    font-size: 12px;
+}
+span.address-10.font-weight-normal {
+    font-size: 14px;
+    float: left;
+    margin: -11px 0px 0px 32px;
+}
+span.Used-3hrs-2.font-weight-normal {
+    font-size: 14px;
+    float: left;
+    margin: -7px 0px 0px 45px;
+    border-bottom: 2px solid #0a8ace;
+    padding-bottom: 5px;
+}
+span.Feels-Last-3.font-weight-normal {
+    font-size: 14px;
+    float: left;
+    margin: -5px 0px 0px 60px;
+}
+.Feels-Last-3 span {
+    color: #2229;
+    font-size: 12px;
+}
+span.Used-24hrs-2.font-weight-normal {
+    font-size: 14px;
+    float: left;
+    margin: -5px 0px 0px 75px;
+	
+}
+span.Analytics-2.font-weight-normal {
+    font-size: 14px;
+    float: left;
+    margin: -5px 0px 0px 99px;
+}
+.all-button {
+    width: 100%;
+    height: 30px;
+    float: left;
+    margin: 20px;
+    font-size: 14px;
+    color: #222222a8;
+}
+.all-button select{float:left;}
+
+
+span.entries {
+    float: left;
+    margin: 0px 0px 0px 16px;
+}
+button.btn.btn-outline-primary.first-2 {
+    float: left;
+    margin: 9px 0px 0px 641px;
+}
+button.btn.btn-outline-primary.previous-2 {
+    float: left;
+    margin: -32px 0px 0px 878px;
+}
+button.btn.btn-outline-primary.next-2 {
+    float: left;
+    margin: -32px 0px 0px 963px;
+}
+button.btn.btn-outline-primary.last-2 {
+    float: left;
+    margin: -32px 0px 0px 1027px;
+}
+p.Ethereum-Name-Service {
+    width: 608px;
+    font-size: 14px;
+    margin: 3px 0px 0px 91px;
+}
+.full-block-name-2 {
+    width: 1100px;
+    height: 881px;
+    margin: 67px 0px 0px 130px;
+    box-shadow: 0px -1px 4px 4px #ddd;
+}
+.rank-10 {
+    margin: 14px 0px 0px 38px;
+    color: #222222ab;
+    float: left;
+	font-weight:bold;
+}
+.address-11 {
+    margin: 14px 0px 0px 38px;
+    color: #222222ab;
+    float: left;
+	font-weight:bold;
+}
+.age-11 {
+    margin: 14px 0px 0px  180px;
+    color: #222222ab;
+    float: left;
+	font-weight:bold;
+}
+.Ethereum-name {
+    margin: 14px 0px 0px  110px;
+    color: #222222ab;
+    float: left;
+	font-weight:bold;
+}
+.Expiration-date {
+    margin: 14px 0px 0px  110px;
+    color: #222222ab;
+    float: left;
+	font-weight:bold;
+}
+.rank-12 {
+    margin: 14px 0px 0px  38px;
+    color: #222222ab;
+    float: left;
+	
+}
+.rank-12 {
+	font-size:14px;
+    margin: 0px 0px 0px 38px;
+    color: #222222ab;
+    float: left;
+}
+.address-12 {
+	font-size:14px;
+    margin: 0px 0px 0px 31px;
+    color: #222222ab;
+    float: left;
+}
+.age-12 {
+	font-size:14px;
+    margin: 0px 0px 0px 40px;
+    color: #222222ab;
+    float: left;
+}
+.Ethereum-name-2 {
+	font-size:14px;
+    margin: 0px 0px 0px 77px;
+    color: #222222ab;
+    float: left;
+}
+.Expiration-date-2 {
+	font-size:14px;
+    margin: 0px 0px 0px 125px;
+    color: #222222ab;
+    float: left;
+}
+.more-details {
+	font-size:14px;
+    margin: 0px 0px 0px 125px;
+    color: #222222ab;
+    float: left;
+	background:#ddd;
+	border-radius:5px;
+	padding:5px
+}
+h1.Etherscan-Connect {
+    font-size: 32px;
+    width: 300px;
+    color: #222222d4;
+    margin: 81px 0px 0px 536px;
+}
+p.Contribute {
+    width: 548px;
+    margin: 29px 0px 0px 430px;
+}
+.Contribute span {
+    margin: 20px 0px 0px 116px;
+}
+.most-likes {
+    width: 100%;
+    height: 700px;
+}
+.win-cup {
+    width: 1100px;
+    height: 56px;
+    box-shadow: 2px 2px 2px 2px #ddd;
+    margin: 34px 0px 0px 112px;
+}
+span.win-cup-2 {
+    float: left;
+    margin: 15px 0px 0px 40px;
+}
+span.Most-likes {
+    float: left;
+    font-weight: bold;
+    color: #222222c2;
+    margin: 14px 0px 0px 57px;
+}
+span.score {
+    float: left;
+    font-weight: bold;
+    color: #222222c2;
+    margin: 14px 0px 0px 800px;
+}
+.win-cup-3 {
+    width: 1100px;
+    height: 65px;
+    margin: 34px 0px 0px 112px;
+	border-bottom:1px solid #ddd;
+}
